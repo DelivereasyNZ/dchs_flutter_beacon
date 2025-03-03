@@ -16,7 +16,7 @@ A comprehensive Flutter plugin that enables beacon ranging, monitoring, and broa
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
   s.dependency       'Flutter'
-  s.platform         = :ios, '13.0'
+  s.platform         = :ios, '12.0'
 
   # Aggiungi le framework CoreLocation e CoreBluetooth
   s.frameworks       = 'CoreLocation', 'CoreBluetooth'
