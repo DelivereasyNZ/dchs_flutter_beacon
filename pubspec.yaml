@@ -4,7 +4,7 @@ version: 0.6.4
 homepage: https://github.com/dariocavada/dchs_flutter_beacon
 
 environment:
-  sdk: ^3.5.4
+  sdk: ^3.4.4
   flutter: '>=3.3.0'
 
 dependencies:
